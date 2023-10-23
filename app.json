@@ -1,0 +1,10 @@
+{
+  "name": "donare",
+  "displayName": "donare",
+  "icon": "./assets/splash.png",
+  "splash": {
+    "image": "./assets/splash.png",
+    "resizeMode": "contain",
+    "backgroundColor": "#ffffff"
+  }
+}
